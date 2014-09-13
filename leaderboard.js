@@ -1,4 +1,4 @@
-console.log('this code runs on both server and client');
+console.log('This code runs on both server and client');
 
 if(Meteor.isServer) {
   console.log('Hello Server');
